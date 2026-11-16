@@ -1,0 +1,17 @@
+
+/* Cor padrão dos links */
+.footer-link {
+    color: rgba(255, 255, 255, 0.418);
+    text-decoration: none;
+    transition: color 0.3s ease; /* Transição suave para a nova cor */
+  }
+  
+  /* Cor quando passar o mouse */
+  .footer-link:hover {
+    color: #00e677; /* Pode trocar pelo tom de verde que preferir (ex: green, #00ff00, etc) */
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  
